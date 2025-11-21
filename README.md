@@ -64,13 +64,12 @@ const israel = {
 
 ```mermaid
 mindmap
-  root((Me))
-    Web Application Architecture & Maintenance
-    Technical Project Management
-    Backend Development (REST APIs)
-      MVC Architecture
+  root((Israel BEDE))
+    Web Apps Architecture & Maintenance
+      Full-Stack Laravel Apps
+      Backend (REST APIs)
         Laravel
-      ElysiaJS
+        ElysiaJS
     Website Development
       WordPress
         Custom Themes
@@ -82,4 +81,6 @@ mindmap
     DevOps & Workflow
       Git Flow
       CI/CD
+      Hostinger
+      Vercel
 ```
