@@ -64,23 +64,22 @@ const israel = {
 
 ```mermaid
 mindmap
-  root((Israel BEDE))
-    Architecture et maintenance d’applications web
-    Gestion technique de projets web
-    Backend Development(API REST)
-      Architecture MVC
+  root((Me))
+    Web Application Architecture & Maintenance
+    Technical Project Management
+    Backend Development (REST APIs)
+      MVC Architecture
         Laravel
       ElysiaJS
     Website Development
       WordPress
-        Themes Custom
-        intégration de Plugins
-        Optimisation SEO
-    Database Design
+        Custom Themes
+        Plugin Integration
+        SEO Optimization
+    Database Design & Optimization
       MySQL
       PostgreSQL
-      Optimisation
-    DevOps
+    DevOps & Workflow
       Git Flow
       CI/CD
 ```
