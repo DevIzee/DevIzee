@@ -60,30 +60,22 @@ const israel = {
 
 ## ![](https://github-profile-trophy.vercel.app/?username=DevIzee&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-## 📈 Activité de Contribution
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=DevIzee&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF)
-
----
-
-<div align="center">
-
-## 💼 Mes Domaines d'Expertise
-
-</div>
+## 💼 Professional Expertise
 
 ```mermaid
 mindmap
   root((Israel BEDE))
-    Backend Development
-      Laravel
-      ElysiaJS
-      API REST
+    Architecture et maintenance d’applications web
+    Gestion technique de projets web
+    Backend Development(API REST)
       Architecture MVC
-    CMS Development
+        Laravel
+      ElysiaJS
+    Website Development
       WordPress
-      Themes Custom
-      Plugins
+        Themes Custom
+        intégration de Plugins
+        Optimisation SEO
     Database Design
       MySQL
       PostgreSQL
@@ -91,23 +83,4 @@ mindmap
     DevOps
       Git Flow
       CI/CD
-      Docker
 ```
-
----
-
-<div align="center">
-
-## 📫 Restons Connectés !
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons_nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DevIzee)
-[![Email](https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.israelbede@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Découvrez_mes_projets-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
----
-
-### ⚡ _"Transformons vos idées en réalité digitale"_
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
-</div>
