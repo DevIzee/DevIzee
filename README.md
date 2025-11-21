@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Israel BEDE
 
-### 🚀 Software Engineer | Web Developer – Backend & CMS | Laravel, ElysiaJS, WordPress✨
+### 🚀 Web Developer – Backend & CMS | Laravel, ElysiaJS, WordPress✨
 
 ### _“In heaven and earth, I alone am the honored one.”_
 
