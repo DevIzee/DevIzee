@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Israel BEDE
 
-### Web Developer – Backend & CMS | Laravel, ElysiaJS
+### Software Engineer | Web Developer – Backend | Laravel, ElysiaJS
 
 ### _“In heaven and earth, I alone am the honored one.”_
 
@@ -33,19 +33,18 @@ const israel = {
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-FF6C00?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-8B5CF6?style=for-the-badge&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### **Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
@@ -53,33 +52,17 @@ const israel = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIzee&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" height="180"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIzee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DevIzee&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-<div align="center">
+## ![](https://github-profile-trophy.vercel.app/?username=DevIzee&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ## 📈 Activité de Contribution
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=DevIzee&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF)
-
-</div>
 
 ---
 
@@ -110,31 +93,6 @@ mindmap
       CI/CD
       Docker
 ```
-
----
-
-<div align="center">
-
-## 🎓 Compétences Clés
-
-| 🔧 Technique            | 🎨 Design             | 🚀 Soft Skills        |
-| ----------------------- | --------------------- | --------------------- |
-| Gestion de projets web  | UX Design             | Leadership            |
-| Architecture logicielle | Storyboarding         | Collaboration         |
-| Développement Backend   | Design moderne        | Gestion sans autorité |
-| Maintenance applicative | Création de scénarios | Pensée stratégique    |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Citation Inspirante
-
-> _"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."_ – Cory House
-
-</div>
 
 ---
 
