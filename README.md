@@ -1,10 +1,8 @@
-<div align="center">
+# 👋 Hi, I'm Israel BEDE
 
-# 👋 Salut, moi c'est Israel BEDE
+### 🚀 Software Engineer | Web Developer – Backend & CMS | Laravel, ElysiaJS, WordPress✨
 
-### 🚀 Ingénieur Logiciel | Développeur Web Backend & CMS
-
-### 💡 _Building the future, one line of code at a time_
+### _“In heaven and earth, I alone am the honored one.”_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DevIzee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.israelbede@gmail.com)
@@ -14,21 +12,21 @@
 
 ---
 
-<div align="center">
-
-## 🎯 À Propos de Moi
+## 🎯 About Me
 
 </div>
 
 ```typescript
 const israel = {
   location: "Lomé, Togo 🇹🇬",
-  role: "Backend Developer & CMS Specialist",
-  passion: "Concevoir des solutions web performantes et scalables",
-  currentFocus: ["Laravel Ecosystem", "Modern JavaScript", "API Architecture"],
-  funFact: "Je transforme le café en code ☕️ → 💻",
-  lifePhilosophy:
-    "La perfection n'existe pas, mais l'excellence est un choix quotidien",
+  role: "Software Engineer | Backend Developer",
+  passion: "Designing high-performance, scalable web solutions",
+  currentFocus: [
+    "Deep-diving into modern JavaScript with ElysiaJS",
+    "API Architecture",
+  ],
+  funFact: "I turn coffee into code ☕️ → 💻",
+  //   lifePhilosophy: "Perfection doesn’t exist, but excellence is a daily choice",
 };
 ```
 
