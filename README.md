@@ -50,15 +50,7 @@ const israel = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevIzee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=DevIzee&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIzee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevIzee&theme=radical&no-frame=true&margin-w=10" />
 
 ---
 
